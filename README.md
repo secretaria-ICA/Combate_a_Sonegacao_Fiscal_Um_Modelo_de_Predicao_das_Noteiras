@@ -1,9 +1,7 @@
-# BiMaster191_TCC
-TCC 
-# Combate à sonegação fiscal: um modelo de predição das noteiras. 
+# Combate à Sonegação Fiscal: Um Modelo de Predição das Noteiras
 
-#### Aluno: Adauto de Carvalho Guimarães (https://github.com/1970-rio/BiMaster191_TCC/edit/main/README.
-#### Orientadores: Prof. Manoela Kohler (https://github.com/link_do_github) e Felipe Borges (https://github.com/link_do_github).
+#### Aluno: [Adauto de Carvalho Guimarães](https://github.com/1970-rio).
+#### Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [Felipe Borges](https://github.com/FelipeBorgesC).
 
 ---
 
